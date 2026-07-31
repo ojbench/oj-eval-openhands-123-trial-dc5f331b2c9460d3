@@ -1,0 +1,7 @@
+This benchmark task is not complete after implementing or pushing the code.
+You MUST use /oj_tools/acmoj_client.py to submit the pushed repository to
+every stated Online Judge problem ID and query each submission's status.
+Use the returned judge feedback to improve the solution within the stated
+submission budget. Do not call the finish tool, declare completion, or ask the
+user for input until the final Git revision is pushed and at least one Online
+Judge submission has reached a non-pending status.
